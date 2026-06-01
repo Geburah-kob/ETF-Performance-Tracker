@@ -15,3 +15,5 @@
 2. 安裝必要套件：
    ```bash
    pip install yfinance matplotlib
+3. 執行程式：
+   python main.py
