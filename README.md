@@ -16,4 +16,5 @@
    ```bash
    pip install yfinance matplotlib
 3. 執行程式：
+   ```bash
    python main.py
